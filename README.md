@@ -7,6 +7,6 @@ Check it out! Live app (limited to 30 active hours): https://jienagu-awesome-dat
 ## Acknowledgement
 Beef Cattle Institute at Kansas State University: https://ksubci.org/ 
 
-Special thanks to Yihui Xie (from RStudio.LLC), Dr. Brad White and Dr. David Amrine
+Special thanks to Yihui Xie (from RStudio.LLC), and @timelyportfolio 
 
 ![](rpivotTableMD.gif)

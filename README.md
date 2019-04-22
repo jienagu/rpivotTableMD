@@ -9,4 +9,4 @@ Beef Cattle Institute at Kansas State University: https://ksubci.org/
 
 Special thanks to Yihui Xie (from RStudio.LLC), and @timelyportfolio 
 
-![](rpivotTableMD.gif)
+![demo](rpivotTableMD.gif)
